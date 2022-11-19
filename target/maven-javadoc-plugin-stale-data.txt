@@ -1,0 +1,51 @@
+@options
+@packages
+@argfile
+-encoding
+'UTF-8'
+-protected
+-source
+'1.7'
+-sourcepath
+'C:/Users/user/Desktop/ETF materijali/RPR/Zadaca/zadaca1/src/main/java;C:/Users/user/Desktop/ETF materijali/RPR/Zadaca/zadaca1/target/generated-sources/annotations'
+-author
+-bottom
+'Copyright &#169; 2022. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/user/Desktop/ETF materijali/RPR/Zadaca/zadaca1/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'zadaca1 0.1 API'
+-linkoffline
+'https://docs.oracle.com/javase/7/docs/api' 'C:/Users/user/Desktop/ETF materijali/RPR/Zadaca/zadaca1/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'zadaca1 0.1 API'
+ba.unsa.etf.rpr
+'C:/Users/user/Desktop/ETF materijali/RPR/Zadaca/zadaca1/src/main/java/ba/unsa/etf/rpr/App.java'
+'C:/Users/user/Desktop/ETF materijali/RPR/Zadaca/zadaca1/src/main/java/ba/unsa/etf/rpr/ExpressionEvaluator.java'
+C:\Users\user\Desktop\ETF materijali\RPR\Zadaca\zadaca1\src\main\java = 1668799605234
+C:\Users\user\Desktop\ETF materijali\RPR\Zadaca\zadaca1\target\generated-sources\annotations = 1668799922316
+C:\Users\user\Desktop\ETF materijali\RPR\Zadaca\zadaca1\target\site\apidocs\allclasses-index.html = 1668888273343
+C:\Users\user\Desktop\ETF materijali\RPR\Zadaca\zadaca1\target\site\apidocs\allpackages-index.html = 1668888273347
+C:\Users\user\Desktop\ETF materijali\RPR\Zadaca\zadaca1\target\site\apidocs\copy.svg = 1668888273397
+C:\Users\user\Desktop\ETF materijali\RPR\Zadaca\zadaca1\target\site\apidocs\element-list = 1668888273279
+C:\Users\user\Desktop\ETF materijali\RPR\Zadaca\zadaca1\target\site\apidocs\help-doc.html = 1668888273388
+C:\Users\user\Desktop\ETF materijali\RPR\Zadaca\zadaca1\target\site\apidocs\index-all.html = 1668888273368
+C:\Users\user\Desktop\ETF materijali\RPR\Zadaca\zadaca1\target\site\apidocs\index.html = 1668888273375
+C:\Users\user\Desktop\ETF materijali\RPR\Zadaca\zadaca1\target\site\apidocs\jquery-ui.overrides.css = 1668888273423
+C:\Users\user\Desktop\ETF materijali\RPR\Zadaca\zadaca1\target\site\apidocs\member-search-index.js = 1668888273356
+C:\Users\user\Desktop\ETF materijali\RPR\Zadaca\zadaca1\target\site\apidocs\module-search-index.js = 1668888273349
+C:\Users\user\Desktop\ETF materijali\RPR\Zadaca\zadaca1\target\site\apidocs\overview-tree.html = 1668888273326
+C:\Users\user\Desktop\ETF materijali\RPR\Zadaca\zadaca1\target\site\apidocs\package-search-index.js = 1668888273352
+C:\Users\user\Desktop\ETF materijali\RPR\Zadaca\zadaca1\target\site\apidocs\script.js = 1668888273394
+C:\Users\user\Desktop\ETF materijali\RPR\Zadaca\zadaca1\target\site\apidocs\search-page.js = 1668888273404
+C:\Users\user\Desktop\ETF materijali\RPR\Zadaca\zadaca1\target\site\apidocs\search.html = 1668888273372
+C:\Users\user\Desktop\ETF materijali\RPR\Zadaca\zadaca1\target\site\apidocs\search.js = 1668888273401
+C:\Users\user\Desktop\ETF materijali\RPR\Zadaca\zadaca1\target\site\apidocs\stylesheet.css = 1668888273392
+C:\Users\user\Desktop\ETF materijali\RPR\Zadaca\zadaca1\target\site\apidocs\tag-search-index.js = 1668888273358
+C:\Users\user\Desktop\ETF materijali\RPR\Zadaca\zadaca1\target\site\apidocs\type-search-index.js = 1668888273354
