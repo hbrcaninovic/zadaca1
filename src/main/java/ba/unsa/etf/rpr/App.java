@@ -59,7 +59,6 @@ public class App
 
         return true;
     }
-
     /**
      *  main metoda vrši pokretanja programa, unos izraza i poziva metodu za validaciju.<br>
      *
