@@ -8,6 +8,8 @@ import static org.junit.jupiter.api.Assertions.*;
 
 class ExpressionEvaluatorTest {
 
+    // Testovi evaluation - evaluation9 testira izračunavanje i povratni rezultat posljeđenog izraza.
+    // Test evaluation10 testira bacanje RunTimeException izuzetka.
     @Test
     void evaluate() {
         ExpressionEvaluator e = new ExpressionEvaluator();
